@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: e50323aec5c5d125194e554a2355f4c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4123224492120538316
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_0
+  - first:
+      213: 8028900188434690701
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_1
+  - first:
+      213: 7972589470418941052
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_2
+  - first:
+      213: -7870812155018196644
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_3
+  - first:
+      213: 8783184747377684419
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_4
+  - first:
+      213: 3166580631240209506
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_5
+  - first:
+      213: -7529157286265367820
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_6
+  - first:
+      213: -1075375652274768010
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_7
+  - first:
+      213: -7265538954682495294
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_8
+  - first:
+      213: 8527939459914416366
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_9
+  - first:
+      213: 6609139522780869757
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_10
+  - first:
+      213: 4659395843283375198
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_11
+  - first:
+      213: 4592876705679979107
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_12
+  - first:
+      213: -2464510982358413143
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_13
+  - first:
+      213: 8969370126810402234
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_14
+  - first:
+      213: -3303824189677796555
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_15
+  - first:
+      213: -5152848028676548098
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_16
+  - first:
+      213: -698737801237587097
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_17
+  - first:
+      213: -3149670067186343200
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_18
+  - first:
+      213: -7736182719893094256
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_19
+  - first:
+      213: -1926222587969436512
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_20
+  - first:
+      213: 8966690564367147266
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_21
+  - first:
+      213: 3787109649444583889
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_22
+  - first:
+      213: 3055395180090607500
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_23
+  - first:
+      213: -8506191461530665113
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_24
+  - first:
+      213: -8144047731634024136
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_25
+  - first:
+      213: 8927501025203676264
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_26
+  - first:
+      213: -3491919469619813924
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_27
+  - first:
+      213: 6072796723940063929
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_28
+  - first:
+      213: 7641484025138168165
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_29
+  - first:
+      213: -2595002130581146897
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_30
+  - first:
+      213: 8482603539563467327
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_31
+  - first:
+      213: -4648446275748914456
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_32
+  - first:
+      213: 7586440411373668568
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_33
+  - first:
+      213: -3762558911418335049
+    second: Naranja_LOGO_MUSEOESCOLAR_base 1_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 140
+        width: 193
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccf80e64d2a83930800000000000000
+      internalID: 4123224492120538316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 176
+        width: 173
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8277b4be226c6f60800000000000000
+      internalID: 8028900188434690701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 267
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74375cf1e354ae60800000000000000
+      internalID: 7972589470418941052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 265
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59405edb0245c290800000000000000
+      internalID: -7870812155018196644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 264
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf63101ef324e970800000000000000
+      internalID: 8783184747377684419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 264
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26474bd8e44f1fb20800000000000000
+      internalID: 3166580631240209506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 265
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2db1ed65f038790800000000000000
+      internalID: -7529157286265367820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 145
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677fe06ba8f7311f0800000000000000
+      internalID: -1075375652274768010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 142
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce0360b0de9b2b90800000000000000
+      internalID: -7265538954682495294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 143
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee04c3e71c3595670800000000000000
+      internalID: 8527939459914416366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 143
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d743956116168bb50800000000000000
+      internalID: 6609139522780869757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 145
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5456da35df79a040800000000000000
+      internalID: 4659395843283375198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_12
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 143
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362b83b970d2dbf30800000000000000
+      internalID: 4592876705679979107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_13
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 145
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a05a7fa15c4ccdd0800000000000000
+      internalID: -2464510982358413143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 67
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdc88bcb9a997c70800000000000000
+      internalID: 8969370126810402234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 67
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53389e567657622d0800000000000000
+      internalID: -3303824189677796555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 67
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef99925d4086d78b0800000000000000
+      internalID: -5152848028676548098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 99
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b981efba59d46f0800000000000000
+      internalID: -698737801237587097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 66
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e26da5f2cf1a44d0800000000000000
+      internalID: -3149670067186343200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 66
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c147edce83a490800000000000000
+      internalID: -7736182719893094256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 66
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a48fb503cea445e0800000000000000
+      internalID: -1926222587969436512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 67
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20163fb8f85107c70800000000000000
+      internalID: 8966690564367147266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 67
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9399449248e8430800000000000000
+      internalID: 3787109649444583889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 66
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87cdb56ab1f66a20800000000000000
+      internalID: 3055395180090607500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 66
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ff008feefe3f980800000000000000
+      internalID: -8506191461530665113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 66
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831d022bcb78afe80800000000000000
+      internalID: -8144047731634024136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 66
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864633be1ead4eb70800000000000000
+      internalID: 8927501025203676264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_27
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 66
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd16a0d4eb53a8fc0800000000000000
+      internalID: -3491919469619813924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_28
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 100
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba7a930278e64450800000000000000
+      internalID: 6072796723940063929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 66
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561ce2b0c310c0a60800000000000000
+      internalID: 7641484025138168165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 66
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe23457af43bcfbd0800000000000000
+      internalID: -2595002130581146897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 66
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32d62af9f248b570800000000000000
+      internalID: 8482603539563467327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_32
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 67
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea9f70adb66d7fb0800000000000000
+      internalID: -4648446275748914456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_33
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 66
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d888950c53784960800000000000000
+      internalID: 7586440411373668568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naranja_LOGO_MUSEOESCOLAR_base 1_34
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 67
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b00e6eda94b8cbc0800000000000000
+      internalID: -3762558911418335049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Naranja_LOGO_MUSEOESCOLAR_base 1_0: 4123224492120538316
+      Naranja_LOGO_MUSEOESCOLAR_base 1_1: 8028900188434690701
+      Naranja_LOGO_MUSEOESCOLAR_base 1_10: 6609139522780869757
+      Naranja_LOGO_MUSEOESCOLAR_base 1_11: 4659395843283375198
+      Naranja_LOGO_MUSEOESCOLAR_base 1_12: 4592876705679979107
+      Naranja_LOGO_MUSEOESCOLAR_base 1_13: -2464510982358413143
+      Naranja_LOGO_MUSEOESCOLAR_base 1_14: 8969370126810402234
+      Naranja_LOGO_MUSEOESCOLAR_base 1_15: -3303824189677796555
+      Naranja_LOGO_MUSEOESCOLAR_base 1_16: -5152848028676548098
+      Naranja_LOGO_MUSEOESCOLAR_base 1_17: -698737801237587097
+      Naranja_LOGO_MUSEOESCOLAR_base 1_18: -3149670067186343200
+      Naranja_LOGO_MUSEOESCOLAR_base 1_19: -7736182719893094256
+      Naranja_LOGO_MUSEOESCOLAR_base 1_2: 7972589470418941052
+      Naranja_LOGO_MUSEOESCOLAR_base 1_20: -1926222587969436512
+      Naranja_LOGO_MUSEOESCOLAR_base 1_21: 8966690564367147266
+      Naranja_LOGO_MUSEOESCOLAR_base 1_22: 3787109649444583889
+      Naranja_LOGO_MUSEOESCOLAR_base 1_23: 3055395180090607500
+      Naranja_LOGO_MUSEOESCOLAR_base 1_24: -8506191461530665113
+      Naranja_LOGO_MUSEOESCOLAR_base 1_25: -8144047731634024136
+      Naranja_LOGO_MUSEOESCOLAR_base 1_26: 8927501025203676264
+      Naranja_LOGO_MUSEOESCOLAR_base 1_27: -3491919469619813924
+      Naranja_LOGO_MUSEOESCOLAR_base 1_28: 6072796723940063929
+      Naranja_LOGO_MUSEOESCOLAR_base 1_29: 7641484025138168165
+      Naranja_LOGO_MUSEOESCOLAR_base 1_3: -7870812155018196644
+      Naranja_LOGO_MUSEOESCOLAR_base 1_30: -2595002130581146897
+      Naranja_LOGO_MUSEOESCOLAR_base 1_31: 8482603539563467327
+      Naranja_LOGO_MUSEOESCOLAR_base 1_32: -4648446275748914456
+      Naranja_LOGO_MUSEOESCOLAR_base 1_33: 7586440411373668568
+      Naranja_LOGO_MUSEOESCOLAR_base 1_34: -3762558911418335049
+      Naranja_LOGO_MUSEOESCOLAR_base 1_4: 8783184747377684419
+      Naranja_LOGO_MUSEOESCOLAR_base 1_5: 3166580631240209506
+      Naranja_LOGO_MUSEOESCOLAR_base 1_6: -7529157286265367820
+      Naranja_LOGO_MUSEOESCOLAR_base 1_7: -1075375652274768010
+      Naranja_LOGO_MUSEOESCOLAR_base 1_8: -7265538954682495294
+      Naranja_LOGO_MUSEOESCOLAR_base 1_9: 8527939459914416366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

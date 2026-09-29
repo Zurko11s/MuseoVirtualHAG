@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: cfbccf4c79892803891bd5f233fee17e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3389908406910967861
+    second: "Referencia Layout Pantalla Men\xFA Inicio_0"
+  - first:
+      213: -6510810472811224411
+    second: "Referencia Layout Pantalla Men\xFA Inicio_1"
+  - first:
+      213: -6696595963767352155
+    second: "Referencia Layout Pantalla Men\xFA Inicio_2"
+  - first:
+      213: -9125540601711406950
+    second: "Referencia Layout Pantalla Men\xFA Inicio_3"
+  - first:
+      213: 5518660175060576893
+    second: "Referencia Layout Pantalla Men\xFA Inicio_4"
+  - first:
+      213: -1714935760552687546
+    second: "Referencia Layout Pantalla Men\xFA Inicio_5"
+  - first:
+      213: 8939881003454184256
+    second: "Referencia Layout Pantalla Men\xFA Inicio_6"
+  - first:
+      213: 7871343658366150133
+    second: "Referencia Layout Pantalla Men\xFA Inicio_7"
+  - first:
+      213: 3376530193779799060
+    second: "Referencia Layout Pantalla Men\xFA Inicio_8"
+  - first:
+      213: -7606165947934854279
+    second: "Referencia Layout Pantalla Men\xFA Inicio_9"
+  - first:
+      213: 6100733499162637199
+    second: "Referencia Layout Pantalla Men\xFA Inicio_10"
+  - first:
+      213: -4554245218471504881
+    second: "Referencia Layout Pantalla Men\xFA Inicio_11"
+  - first:
+      213: 585235924443971844
+    second: "Referencia Layout Pantalla Men\xFA Inicio_12"
+  - first:
+      213: -2521741318287116004
+    second: "Referencia Layout Pantalla Men\xFA Inicio_13"
+  - first:
+      213: 3826909168892023962
+    second: "Referencia Layout Pantalla Men\xFA Inicio_14"
+  - first:
+      213: 262892809848283559
+    second: "Referencia Layout Pantalla Men\xFA Inicio_15"
+  - first:
+      213: 3518340474464461743
+    second: "Referencia Layout Pantalla Men\xFA Inicio_16"
+  - first:
+      213: -7539584065871569887
+    second: "Referencia Layout Pantalla Men\xFA Inicio_17"
+  - first:
+      213: -6009459330077027233
+    second: "Referencia Layout Pantalla Men\xFA Inicio_18"
+  - first:
+      213: -111999613456028182
+    second: "Referencia Layout Pantalla Men\xFA Inicio_19"
+  - first:
+      213: 8388011926643269567
+    second: "Referencia Layout Pantalla Men\xFA Inicio_20"
+  - first:
+      213: 2106371878910066787
+    second: "Referencia Layout Pantalla Men\xFA Inicio_21"
+  - first:
+      213: 7340699753324401867
+    second: "Referencia Layout Pantalla Men\xFA Inicio_22"
+  - first:
+      213: 5829332064495675854
+    second: "Referencia Layout Pantalla Men\xFA Inicio_23"
+  - first:
+      213: -6330356606846733817
+    second: "Referencia Layout Pantalla Men\xFA Inicio_24"
+  - first:
+      213: 7513726260757400067
+    second: "Referencia Layout Pantalla Men\xFA Inicio_25"
+  - first:
+      213: -8006313448672925629
+    second: "Referencia Layout Pantalla Men\xFA Inicio_26"
+  - first:
+      213: 1691603209136004334
+    second: "Referencia Layout Pantalla Men\xFA Inicio_27"
+  - first:
+      213: 631959307451450130
+    second: "Referencia Layout Pantalla Men\xFA Inicio_28"
+  - first:
+      213: -711103959836847890
+    second: "Referencia Layout Pantalla Men\xFA Inicio_29"
+  - first:
+      213: 5306475324000157251
+    second: "Referencia Layout Pantalla Men\xFA Inicio_30"
+  - first:
+      213: -4027003393448649414
+    second: "Referencia Layout Pantalla Men\xFA Inicio_31"
+  - first:
+      213: 1940658293301411239
+    second: "Referencia Layout Pantalla Men\xFA Inicio_32"
+  - first:
+      213: -6987686170622845924
+    second: "Referencia Layout Pantalla Men\xFA Inicio_33"
+  - first:
+      213: 6026217146050419356
+    second: "Referencia Layout Pantalla Men\xFA Inicio_34"
+  - first:
+      213: -8160879804768344807
+    second: "Referencia Layout Pantalla Men\xFA Inicio_35"
+  - first:
+      213: 5844251942311016348
+    second: "Referencia Layout Pantalla Men\xFA Inicio_36"
+  - first:
+      213: -6925367146022816936
+    second: "Referencia Layout Pantalla Men\xFA Inicio_37"
+  - first:
+      213: 1895012767556156293
+    second: "Referencia Layout Pantalla Men\xFA Inicio_38"
+  - first:
+      213: -2495637226693818685
+    second: "Referencia Layout Pantalla Men\xFA Inicio_39"
+  - first:
+      213: -4057244975223093810
+    second: "Referencia Layout Pantalla Men\xFA Inicio_40"
+  - first:
+      213: -8131598510856170654
+    second: "Referencia Layout Pantalla Men\xFA Inicio_41"
+  - first:
+      213: -7177119215358295611
+    second: "Referencia Layout Pantalla Men\xFA Inicio_42"
+  - first:
+      213: -7257121596286774857
+    second: "Referencia Layout Pantalla Men\xFA Inicio_43"
+  - first:
+      213: -7712719236832747783
+    second: "Referencia Layout Pantalla Men\xFA Inicio_44"
+  - first:
+      213: 973422995212650063
+    second: "Referencia Layout Pantalla Men\xFA Inicio_45"
+  - first:
+      213: 5453608680039281130
+    second: "Referencia Layout Pantalla Men\xFA Inicio_46"
+  - first:
+      213: -8443828443136896624
+    second: "Referencia Layout Pantalla Men\xFA Inicio_47"
+  - first:
+      213: 327902955250354991
+    second: "Referencia Layout Pantalla Men\xFA Inicio_48"
+  - first:
+      213: -1425987174029192768
+    second: "Referencia Layout Pantalla Men\xFA Inicio_49"
+  - first:
+      213: -676199176418082783
+    second: "Referencia Layout Pantalla Men\xFA Inicio_50"
+  - first:
+      213: 4608971721099149961
+    second: "Referencia Layout Pantalla Men\xFA Inicio_51"
+  - first:
+      213: 2999118902778101629
+    second: "Referencia Layout Pantalla Men\xFA Inicio_52"
+  - first:
+      213: 9222608230182104641
+    second: "Referencia Layout Pantalla Men\xFA Inicio_53"
+  - first:
+      213: 4196777164251556317
+    second: "Referencia Layout Pantalla Men\xFA Inicio_54"
+  - first:
+      213: -389574703807374064
+    second: "Referencia Layout Pantalla Men\xFA Inicio_55"
+  - first:
+      213: -6040913798439310363
+    second: "Referencia Layout Pantalla Men\xFA Inicio_56"
+  - first:
+      213: -7067421668849397118
+    second: "Referencia Layout Pantalla Men\xFA Inicio_57"
+  - first:
+      213: 4111789336471304374
+    second: "Referencia Layout Pantalla Men\xFA Inicio_58"
+  - first:
+      213: 2221889196597890968
+    second: "Referencia Layout Pantalla Men\xFA Inicio_59"
+  - first:
+      213: -8846072238905771822
+    second: "Referencia Layout Pantalla Men\xFA Inicio_60"
+  - first:
+      213: 2318507048750590400
+    second: "Referencia Layout Pantalla Men\xFA Inicio_61"
+  - first:
+      213: 1715345043513678789
+    second: "Referencia Layout Pantalla Men\xFA Inicio_62"
+  - first:
+      213: 8729173500200351989
+    second: "Referencia Layout Pantalla Men\xFA Inicio_63"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_0"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 606
+        width: 193
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530e90f4cbf5b0f20800000000000000
+      internalID: 3389908406910967861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_1"
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 642
+        width: 173
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2a138ee54f4a5a0800000000000000
+      internalID: -6510810472811224411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_2"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 733
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a415577379e013a0800000000000000
+      internalID: -6696595963767352155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_3"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 731
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9056930c219b5180800000000000000
+      internalID: -9125540601711406950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_4"
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 730
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aa49aa038369c40800000000000000
+      internalID: 5518660175060576893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_5"
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 730
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64884ab03035338e0800000000000000
+      internalID: -1714935760552687546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_6"
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 731
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b36293866d01c70800000000000000
+      internalID: 8939881003454184256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_7"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 611
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f520f56a51ac3d60800000000000000
+      internalID: 7871343658366150133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_8"
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 608
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41430a55258dbde20800000000000000
+      internalID: 3376530193779799060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_9"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 609
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973bbaa9e58717690800000000000000
+      internalID: -7606165947934854279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_10"
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 609
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f833aee5bc82aa450800000000000000
+      internalID: 6100733499162637199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_11"
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 611
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f041cfc6a121cc0c0800000000000000
+      internalID: -4554245218471504881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_12"
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 609
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401c74af8fc2f1800800000000000000
+      internalID: 585235924443971844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_13"
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 611
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19321cb1a9f00dd0800000000000000
+      internalID: -2521741318287116004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_14"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 533
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a949e7ffc99eb1530800000000000000
+      internalID: 3826909168892023962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_15"
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 533
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1e2012e9bf5a300800000000000000
+      internalID: 262892809848283559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_16"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 533
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa365534508a3d030800000000000000
+      internalID: 3518340474464461743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_17"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 565
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c978f0d340e5790800000000000000
+      internalID: -7539584065871569887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_18"
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 532
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f541a9a249c1a9ca0800000000000000
+      internalID: -6009459330077027233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_19"
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 532
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aede8f8e1f8127ef0800000000000000
+      internalID: -111999613456028182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_20"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 532
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfdf4bd764386470800000000000000
+      internalID: 8388011926643269567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_21"
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 533
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3608e4750165b3d10800000000000000
+      internalID: 2106371878910066787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_22"
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 533
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4d2bf68876fd560800000000000000
+      internalID: 7340699753324401867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_23"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 532
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec92f06a0a2f5e050800000000000000
+      internalID: 5829332064495675854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_24"
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 532
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7027a5ba43e0628a0800000000000000
+      internalID: -6330356606846733817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_25"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 532
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a08f7893e164860800000000000000
+      internalID: 7513726260757400067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_26"
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 532
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348ea63765cd3e090800000000000000
+      internalID: -8006313448672925629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_27"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 532
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec567df728c97710800000000000000
+      internalID: 1691603209136004334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_28"
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 566
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213452154ab25c800800000000000000
+      internalID: 631959307451450130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_29"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 532
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee01d8357b6a126f0800000000000000
+      internalID: -711103959836847890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_30"
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 532
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eb768313364a940800000000000000
+      internalID: 5306475324000157251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_31"
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 532
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d5338efb53d18c0800000000000000
+      internalID: -4027003393448649414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_32"
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 533
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad75aa8f6a9eea10800000000000000
+      internalID: 1940658293301411239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_33"
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 532
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c9d1e3370c60f90800000000000000
+      internalID: -6987686170622845924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_34"
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 533
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a14b9e09c61a350800000000000000
+      internalID: 6026217146050419356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_35"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 323
+        width: 422
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915af164e0bbebe80800000000000000
+      internalID: -8160879804768344807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_36"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 181
+        width: 422
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97b5576d24fa1150800000000000000
+      internalID: 5844251942311016348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_37"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853362ad54724ef90800000000000000
+      internalID: -6925367146022816936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_38"
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 79
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bb30762107c4a10800000000000000
+      internalID: 1895012767556156293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_39"
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c68cae2a27bd5dd0800000000000000
+      internalID: -2495637226693818685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_40"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 78
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5c615f035c1b7c0800000000000000
+      internalID: -4057244975223093810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_41"
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 78
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2639258cc32c62f80800000000000000
+      internalID: -8131598510856170654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_42"
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 78
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c140f18910c56c90800000000000000
+      internalID: -7177119215358295611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_43"
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 79
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1d289ab56894b90800000000000000
+      internalID: -7257121596286774857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_44"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe1344c7bae6f490800000000000000
+      internalID: -7712719236832747783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_45"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 78
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46c8d58e0b428d00800000000000000
+      internalID: 973422995212650063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_46"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 78
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae17ab5333c1fab40800000000000000
+      internalID: 5453608680039281130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_47"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 78
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0915c7ea4ce71da80800000000000000
+      internalID: -8443828443136896624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_48"
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 78
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b8f702002fc8400800000000000000
+      internalID: 327902955250354991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_49"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 79
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c11abd6830e53ce0800000000000000
+      internalID: -1425987174029192768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_50"
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 78
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12040348e68ad96f0800000000000000
+      internalID: -676199176418082783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_51"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 79
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9828fe76c5b56ff30800000000000000
+      internalID: 4608971721099149961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_52"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 79
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f7f3780c20f9920800000000000000
+      internalID: 2999118902778101629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_53"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 78
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e299662594dff70800000000000000
+      internalID: 9222608230182104641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_54"
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 78
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd96fac6892fd3a30800000000000000
+      internalID: 4196777164251556317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_55"
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5516fed3f79af0800000000000000
+      internalID: -389574703807374064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_56"
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 78
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebe44d08ec5a2ca0800000000000000
+      internalID: -6040913798439310363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_57"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 78
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282555edf697bed90800000000000000
+      internalID: -7067421668849397118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_58"
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 79
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b87c97cd92001930800000000000000
+      internalID: 4111789336471304374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_59"
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 79
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fce75c37cb5de10800000000000000
+      internalID: 2221889196597890968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_60"
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 78
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8b39eca207c3580800000000000000
+      internalID: -8846072238905771822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_61"
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 78
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9a40a70edfc2020800000000000000
+      internalID: 2318507048750590400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_62"
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 78
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb1cd19a312ec710800000000000000
+      internalID: 1715345043513678789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Referencia Layout Pantalla Men\xFA Inicio_63"
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 79
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8f13e9c01442970800000000000000
+      internalID: 8729173500200351989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Referencia Layout Pantalla Men\xFA Inicio_0": 3389908406910967861
+      "Referencia Layout Pantalla Men\xFA Inicio_1": -6510810472811224411
+      "Referencia Layout Pantalla Men\xFA Inicio_10": 6100733499162637199
+      "Referencia Layout Pantalla Men\xFA Inicio_11": -4554245218471504881
+      "Referencia Layout Pantalla Men\xFA Inicio_12": 585235924443971844
+      "Referencia Layout Pantalla Men\xFA Inicio_13": -2521741318287116004
+      "Referencia Layout Pantalla Men\xFA Inicio_14": 3826909168892023962
+      "Referencia Layout Pantalla Men\xFA Inicio_15": 262892809848283559
+      "Referencia Layout Pantalla Men\xFA Inicio_16": 3518340474464461743
+      "Referencia Layout Pantalla Men\xFA Inicio_17": -7539584065871569887
+      "Referencia Layout Pantalla Men\xFA Inicio_18": -6009459330077027233
+      "Referencia Layout Pantalla Men\xFA Inicio_19": -111999613456028182
+      "Referencia Layout Pantalla Men\xFA Inicio_2": -6696595963767352155
+      "Referencia Layout Pantalla Men\xFA Inicio_20": 8388011926643269567
+      "Referencia Layout Pantalla Men\xFA Inicio_21": 2106371878910066787
+      "Referencia Layout Pantalla Men\xFA Inicio_22": 7340699753324401867
+      "Referencia Layout Pantalla Men\xFA Inicio_23": 5829332064495675854
+      "Referencia Layout Pantalla Men\xFA Inicio_24": -6330356606846733817
+      "Referencia Layout Pantalla Men\xFA Inicio_25": 7513726260757400067
+      "Referencia Layout Pantalla Men\xFA Inicio_26": -8006313448672925629
+      "Referencia Layout Pantalla Men\xFA Inicio_27": 1691603209136004334
+      "Referencia Layout Pantalla Men\xFA Inicio_28": 631959307451450130
+      "Referencia Layout Pantalla Men\xFA Inicio_29": -711103959836847890
+      "Referencia Layout Pantalla Men\xFA Inicio_3": -9125540601711406950
+      "Referencia Layout Pantalla Men\xFA Inicio_30": 5306475324000157251
+      "Referencia Layout Pantalla Men\xFA Inicio_31": -4027003393448649414
+      "Referencia Layout Pantalla Men\xFA Inicio_32": 1940658293301411239
+      "Referencia Layout Pantalla Men\xFA Inicio_33": -6987686170622845924
+      "Referencia Layout Pantalla Men\xFA Inicio_34": 6026217146050419356
+      "Referencia Layout Pantalla Men\xFA Inicio_35": -8160879804768344807
+      "Referencia Layout Pantalla Men\xFA Inicio_36": 5844251942311016348
+      "Referencia Layout Pantalla Men\xFA Inicio_37": -6925367146022816936
+      "Referencia Layout Pantalla Men\xFA Inicio_38": 1895012767556156293
+      "Referencia Layout Pantalla Men\xFA Inicio_39": -2495637226693818685
+      "Referencia Layout Pantalla Men\xFA Inicio_4": 5518660175060576893
+      "Referencia Layout Pantalla Men\xFA Inicio_40": -4057244975223093810
+      "Referencia Layout Pantalla Men\xFA Inicio_41": -8131598510856170654
+      "Referencia Layout Pantalla Men\xFA Inicio_42": -7177119215358295611
+      "Referencia Layout Pantalla Men\xFA Inicio_43": -7257121596286774857
+      "Referencia Layout Pantalla Men\xFA Inicio_44": -7712719236832747783
+      "Referencia Layout Pantalla Men\xFA Inicio_45": 973422995212650063
+      "Referencia Layout Pantalla Men\xFA Inicio_46": 5453608680039281130
+      "Referencia Layout Pantalla Men\xFA Inicio_47": -8443828443136896624
+      "Referencia Layout Pantalla Men\xFA Inicio_48": 327902955250354991
+      "Referencia Layout Pantalla Men\xFA Inicio_49": -1425987174029192768
+      "Referencia Layout Pantalla Men\xFA Inicio_5": -1714935760552687546
+      "Referencia Layout Pantalla Men\xFA Inicio_50": -676199176418082783
+      "Referencia Layout Pantalla Men\xFA Inicio_51": 4608971721099149961
+      "Referencia Layout Pantalla Men\xFA Inicio_52": 2999118902778101629
+      "Referencia Layout Pantalla Men\xFA Inicio_53": 9222608230182104641
+      "Referencia Layout Pantalla Men\xFA Inicio_54": 4196777164251556317
+      "Referencia Layout Pantalla Men\xFA Inicio_55": -389574703807374064
+      "Referencia Layout Pantalla Men\xFA Inicio_56": -6040913798439310363
+      "Referencia Layout Pantalla Men\xFA Inicio_57": -7067421668849397118
+      "Referencia Layout Pantalla Men\xFA Inicio_58": 4111789336471304374
+      "Referencia Layout Pantalla Men\xFA Inicio_59": 2221889196597890968
+      "Referencia Layout Pantalla Men\xFA Inicio_6": 8939881003454184256
+      "Referencia Layout Pantalla Men\xFA Inicio_60": -8846072238905771822
+      "Referencia Layout Pantalla Men\xFA Inicio_61": 2318507048750590400
+      "Referencia Layout Pantalla Men\xFA Inicio_62": 1715345043513678789
+      "Referencia Layout Pantalla Men\xFA Inicio_63": 8729173500200351989
+      "Referencia Layout Pantalla Men\xFA Inicio_7": 7871343658366150133
+      "Referencia Layout Pantalla Men\xFA Inicio_8": 3376530193779799060
+      "Referencia Layout Pantalla Men\xFA Inicio_9": -7606165947934854279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

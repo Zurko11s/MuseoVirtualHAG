@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 5202487553963cfe0bf6fb4e0905f02b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6743037573115664908
+    second: "Pie de Men\xFA Inicio_0"
+  - first:
+      213: 1238119823867721788
+    second: "Pie de Men\xFA Inicio_1"
+  - first:
+      213: 7114621741698927050
+    second: "Pie de Men\xFA Inicio_2"
+  - first:
+      213: -7559015227032710771
+    second: "Pie de Men\xFA Inicio_3"
+  - first:
+      213: 1870398375422809615
+    second: "Pie de Men\xFA Inicio_4"
+  - first:
+      213: -6106745193757605635
+    second: "Pie de Men\xFA Inicio_5"
+  - first:
+      213: -2926694221736068309
+    second: "Pie de Men\xFA Inicio_6"
+  - first:
+      213: 7915395575154013162
+    second: "Pie de Men\xFA Inicio_7"
+  - first:
+      213: 2838512285287867296
+    second: "Pie de Men\xFA Inicio_8"
+  - first:
+      213: -1076365453948331714
+    second: "Pie de Men\xFA Inicio_9"
+  - first:
+      213: -871995131088922361
+    second: "Pie de Men\xFA Inicio_10"
+  - first:
+      213: -481226556540189212
+    second: "Pie de Men\xFA Inicio_11"
+  - first:
+      213: -1491213045662307927
+    second: "Pie de Men\xFA Inicio_12"
+  - first:
+      213: -8969547552311614370
+    second: "Pie de Men\xFA Inicio_13"
+  - first:
+      213: -4899052762294938576
+    second: "Pie de Men\xFA Inicio_14"
+  - first:
+      213: 3058951560887738345
+    second: "Pie de Men\xFA Inicio_15"
+  - first:
+      213: -860127698334941398
+    second: "Pie de Men\xFA Inicio_16"
+  - first:
+      213: -8786581494080389053
+    second: "Pie de Men\xFA Inicio_17"
+  - first:
+      213: 3185377131936951005
+    second: "Pie de Men\xFA Inicio_18"
+  - first:
+      213: -2402715016310578942
+    second: "Pie de Men\xFA Inicio_19"
+  - first:
+      213: 7671221731179077322
+    second: "Pie de Men\xFA Inicio_20"
+  - first:
+      213: -4342197069902123545
+    second: "Pie de Men\xFA Inicio_21"
+  - first:
+      213: -7660120357229341837
+    second: "Pie de Men\xFA Inicio_22"
+  - first:
+      213: 4102412676781472580
+    second: "Pie de Men\xFA Inicio_23"
+  - first:
+      213: -2473866058457048713
+    second: "Pie de Men\xFA Inicio_24"
+  - first:
+      213: -8330359062820474544
+    second: "Pie de Men\xFA Inicio_25"
+  - first:
+      213: -3180049994364226999
+    second: "Pie de Men\xFA Inicio_26"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_0"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 22
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0adba452f4149d50800000000000000
+      internalID: 6743037573115664908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_1"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 24
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3831038b6fae2110800000000000000
+      internalID: 1238119823867721788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_2"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 24
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac94c3977c63cb260800000000000000
+      internalID: 7114621741698927050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_3"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 23
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8152fc43bbf81790800000000000000
+      internalID: -7559015227032710771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_4"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 23
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f065b83a96df4f910800000000000000
+      internalID: 1870398375422809615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_5"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 23
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df00148e99b704ba0800000000000000
+      internalID: -6106745193757605635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_6"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 24
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bbb339c1b4267d0800000000000000
+      internalID: -2926694221736068309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_7"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f0c9865229dd60800000000000000
+      internalID: 7915395575154013162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_8"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 23
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a36a2762eb646720800000000000000
+      internalID: 2838512285287867296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_9"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 23
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3958ec825bff01f0800000000000000
+      internalID: -1076365453948331714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_10"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 23
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709139d5c0d06e3f0800000000000000
+      internalID: -871995131088922361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_11"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 23
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e500f81ff65259f0800000000000000
+      internalID: -481226556540189212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_12"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 24
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9aed0c2a52e4be0800000000000000
+      internalID: -1491213045662307927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_13"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54ed7c1604c58380800000000000000
+      internalID: -8969547552311614370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_14"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 24
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034938f0871130cb0800000000000000
+      internalID: -4899052762294938576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_15"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 24
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef17d3dc34937a20800000000000000
+      internalID: 3058951560887738345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_16"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 23
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f754f5a663014f0800000000000000
+      internalID: -860127698334941398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_17"
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 23
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34041573faacf0680800000000000000
+      internalID: -8786581494080389053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_18"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 24
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda21c8ef9bb43c20800000000000000
+      internalID: 3185377131936951005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_19"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 23
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201af4c3c67d7aed0800000000000000
+      internalID: -2402715016310578942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_20"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 23
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace9f284587a57a60800000000000000
+      internalID: 7671221731179077322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_21"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 24
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ededb755ca6db3c0800000000000000
+      internalID: -4342197069902123545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_22"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 24
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3735b92ce19c1b590800000000000000
+      internalID: -7660120357229341837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_23"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 23
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b7e911892bee830800000000000000
+      internalID: 4102412676781472580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_24"
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 23
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77995cb4def0badd0800000000000000
+      internalID: -2473866058457048713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_25"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 23
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0513129819e946c80800000000000000
+      internalID: -8330359062820474544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pie de Men\xFA Inicio_26"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 24
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942ffe5f0613ed3d0800000000000000
+      internalID: -3180049994364226999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Pie de Men\xFA Inicio_0": 6743037573115664908
+      "Pie de Men\xFA Inicio_1": 1238119823867721788
+      "Pie de Men\xFA Inicio_10": -871995131088922361
+      "Pie de Men\xFA Inicio_11": -481226556540189212
+      "Pie de Men\xFA Inicio_12": -1491213045662307927
+      "Pie de Men\xFA Inicio_13": -8969547552311614370
+      "Pie de Men\xFA Inicio_14": -4899052762294938576
+      "Pie de Men\xFA Inicio_15": 3058951560887738345
+      "Pie de Men\xFA Inicio_16": -860127698334941398
+      "Pie de Men\xFA Inicio_17": -8786581494080389053
+      "Pie de Men\xFA Inicio_18": 3185377131936951005
+      "Pie de Men\xFA Inicio_19": -2402715016310578942
+      "Pie de Men\xFA Inicio_2": 7114621741698927050
+      "Pie de Men\xFA Inicio_20": 7671221731179077322
+      "Pie de Men\xFA Inicio_21": -4342197069902123545
+      "Pie de Men\xFA Inicio_22": -7660120357229341837
+      "Pie de Men\xFA Inicio_23": 4102412676781472580
+      "Pie de Men\xFA Inicio_24": -2473866058457048713
+      "Pie de Men\xFA Inicio_25": -8330359062820474544
+      "Pie de Men\xFA Inicio_26": -3180049994364226999
+      "Pie de Men\xFA Inicio_3": -7559015227032710771
+      "Pie de Men\xFA Inicio_4": 1870398375422809615
+      "Pie de Men\xFA Inicio_5": -6106745193757605635
+      "Pie de Men\xFA Inicio_6": -2926694221736068309
+      "Pie de Men\xFA Inicio_7": 7915395575154013162
+      "Pie de Men\xFA Inicio_8": 2838512285287867296
+      "Pie de Men\xFA Inicio_9": -1076365453948331714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
