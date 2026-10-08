@@ -929,6 +929,7 @@ MonoBehaviour:
   - {fileID: 208901509}
   - {fileID: 8423827391611887970}
   - {fileID: 8423827391611887969}
+  isMenuScene: 0
 --- !u!4 &315464915
 Transform:
   m_ObjectHideFlags: 0
@@ -1119,10 +1120,10 @@ RectTransform:
   - {fileID: 1058729570}
   m_Father: {fileID: 92832400}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 1976, y: 1050}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &358989008
 MonoBehaviour:
@@ -6324,10 +6325,10 @@ RectTransform:
   - {fileID: 565356894}
   m_Father: {fileID: 92832400}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 1976, y: 1050}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1845676345
 MonoBehaviour:
@@ -7202,6 +7203,30 @@ PrefabInstance:
     - target: {fileID: 4323941267069479286, guid: 055b4db7b6fb6b84aa544a9c723e0751, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625468540799306856, guid: 055b4db7b6fb6b84aa544a9c723e0751, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625468540799306856, guid: 055b4db7b6fb6b84aa544a9c723e0751, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625468540799306856, guid: 055b4db7b6fb6b84aa544a9c723e0751, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625468540799306856, guid: 055b4db7b6fb6b84aa544a9c723e0751, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625468540799306856, guid: 055b4db7b6fb6b84aa544a9c723e0751, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625468540799306856, guid: 055b4db7b6fb6b84aa544a9c723e0751, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1050
       objectReference: {fileID: 0}
     - target: {fileID: 4857187871735187968, guid: 055b4db7b6fb6b84aa544a9c723e0751, type: 3}
       propertyPath: m_Pivot.x
