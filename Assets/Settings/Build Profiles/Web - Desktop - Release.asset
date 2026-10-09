@@ -20,8 +20,26 @@ MonoBehaviour:
     rid: 2097445555134791753
   m_ActivePlatformGuid: 
   m_AdditionalPlatformBuildSettings: []
-  m_OverrideGlobalSceneList: 0
-  m_Scenes: []
+  m_OverrideGlobalSceneList: 1
+  m_Scenes:
+  - m_enabled: 1
+    m_path: Assets/Scenes/Inicio.unity
+    m_guid: e0cd2d952f892e46a9be18c590d22e60
+  - m_enabled: 1
+    m_path: Assets/Scenes/Inclusion.unity
+    m_guid: 6bf67c3bd4e32304980f25873ec937f3
+  - m_enabled: 1
+    m_path: Assets/Scenes/Diversidad.unity
+    m_guid: a898a66b0a93f37f7aa5d5fc107dd65a
+  - m_enabled: 1
+    m_path: Assets/Scenes/Migracion.unity
+    m_guid: 3757f7d44cf2c6a45bdb0c5fd1c4f1c1
+  - m_enabled: 1
+    m_path: Assets/Scenes/Movilidad.unity
+    m_guid: 908433466e88c714088470707f820834
+  - m_enabled: 1
+    m_path: Assets/Scenes/Ending.unity
+    m_guid: 0e9532ab786f2284f855847dc42bfb3d
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
@@ -417,7 +435,10 @@ MonoBehaviour:
     - line: '|       m_Height: 36'
     - line: '|       m_Kind: 0'
     - line: '|       m_SubKind: '
-    - line: '|   m_BuildTargetBatching: []'
+    - line: '|   m_BuildTargetBatching:'
+    - line: '|   - m_BuildTarget: WebGL'
+    - line: '|     m_StaticBatching: 0'
+    - line: '|     m_DynamicBatching: 0'
     - line: '|   m_BuildTargetShaderSettings: []'
     - line: '|   m_BuildTargetGraphicsJobs: []'
     - line: '|   m_BuildTargetGraphicsJobMode: []'
