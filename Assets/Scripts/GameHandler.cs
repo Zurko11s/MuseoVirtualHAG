@@ -28,7 +28,7 @@ public class GameHandler : MonoBehaviour{
         //        textGameObject.text = "Score: " + score; }
 
         public void StartGame(){
-                SceneManager.LoadScene("MuseoMenu");
+                SceneManager.LoadScene("Inicio");
         }
 
         public void OpenPause(){
